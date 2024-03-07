@@ -1,0 +1,17 @@
+Script started on Sun 24 Jul 2022 08:39:55 PM PDT
+]0;nantoun@csslab3:~[?1034h[nantoun@csslab1 ~]$ g++ lab3.cpp
+]0;nantoun@csslab3:~[nantoun@csslab3 ~]$ ./a.out
+class1: PradnyaDhala8AngieHam7PeteRose13CesarRuiz6BillVollmann13
+Class2: HankAaron3PeteRose13CesarRuiz6PiqiTangi7JohnZorn4
+class1 and 2 Merged: HankAaron3PradnyaDhala8AngieHam7PeteRose13CesarRuiz6BillVollmann13JohnZorn4
+class1: HankAaron3PradnyaDhala8PeteRose13BillVollmann13JohnZorn4
+soccer: MilesDavis65PeteRose13CesarRuiz6
+soccer += class1 : HankAaron3MilesDavis65PradnyaDhala8PeteRose13CesarRuiz6JohnZorn4
+football: HankAaron3MilesDavis65PradnyaDhala8PeteRose13CesarRuiz6JohnZorn4
+PeteRose13 is on the football team
+These are the numbers: -1113
+
+]0;nantoun@csslab3:~[nantoun@csslab3 ~]$ exit
+exit
+
+Script done on Sun 24 Jul 2022 08:39:55 PM PDT
